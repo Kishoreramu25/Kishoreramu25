@@ -1,25 +1,22 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d0d,70:1a0533,100:2d0a6e&height=220&section=header&text=Kishore%20Ramu&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Developer&descAlignY=60&descSize=18&animation=fadeIn&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d0d,80:1a0533,100:2d0a6e&height=230&section=header&text=Kishore%20Ramu&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
 
-<!-- Profile Photo -->
-<img src="https://raw.githubusercontent.com/Kishoreramu25/Kishoreramu25/main/profile.jpg" width="130" style="border-radius: 50%; border: 3px solid #7c3aed;" alt="Kishore Ramu" />
+<!-- 👇 REPLACE THIS URL after uploading profile.jpg to your Kishoreramu25 repo -->
+<img src="https://avatars.githubusercontent.com/u/Kishoreramu25" width="130" style="border-radius:50%;" alt="Kishore Ramu"/>
 
-<br/>
+<br/><br/>
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=hey+there+%F0%9F%91%8B+i'm+kishore;Full+Stack+Dev+%2B+AI+Engineer+%F0%9F%A4%96;I+build+things+that+actually+ship+%F0%9F%9A%80;React+%7C+Supabase+%7C+Python+%7C+Node.js;not+your+average+CS+student+%F0%9F%98%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=hey+there+%F0%9F%91%8B+i'm+kishore+ra;Full+Stack+Dev+%2B+AI+Engineer+%F0%9F%A4%96;I+build+things+that+actually+ship+%F0%9F%9A%80;React+%7C+Supabase+%7C+Python+%7C+Node.js;not+your+average+CS+student+%F0%9F%98%88" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-%40Kishoreramu25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishoreramu25)
-[![Portfolio](https://img.shields.io/badge/Live%20Project-Rovia%20Delice-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rovia-delice.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Hit%20Me%20Up-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishoreramu25@gmail.com)
+[![Live Project](https://img.shields.io/badge/Live%20Project-Rovia%20Delice-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rovia-delice.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Email-Hit%20Me%20Up-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishoreramu25@gmail.com)
 
 <br/>
 
@@ -29,19 +26,21 @@
 
 ---
 
-<img align="right" alt="coding gif" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 👾 who am i?
 
 ```python
 kishore = {
-  "name"        : "Kishore Ram",
-  "role"        : ["Full Stack Developer", "AI Developer"],
-  "degree"      : "B.Tech – AI & Data Science",
-  "location"    : "Chennai, Tamil Nadu 🇮🇳",
-  "currently"   : "shipping prod-grade systems as a student 💀",
-  "passion"     : "turning ideas into real deployed products",
-  "fun_fact"    : "my commits don't lie but my sleep does 🌙"
+  "name"      : "Kishore Ramu",
+  "role"      : ["Full Stack Developer", "AI Developer"],
+  "degree"    : "B.Tech – AI & Data Science",
+  "uni"       : "Anna University 🎓",
+  "year"      : "Semester 4",
+  "location"  : "Chennai, Tamil Nadu 🇮🇳",
+  "status"    : "shipping prod systems as a student 💀",
+  "vibe"      : "build → ship → repeat",
+  "fun_fact"  : "commits don't lie but my sleep does 🌙"
 }
 ```
 
@@ -51,7 +50,7 @@ kishore = {
 
 ## 🛠️ tech stack
 
-> *"tools don't make you — but the right ones help you ship faster"*
+> *tools don't make you — but the right ones help you ship faster*
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -93,11 +92,10 @@ kishore = {
 
 <div align="center">
 
-| 🏆 Project | 💡 What it does | ⚡ Stack | 🔗 Link |
+| 🏆 Project | 💡 What it does | ⚡ Stack | 🔗 |
 |---|---|---|---|
-| **Rovia Delice** | Production-grade full stack web app — live & deployed | React · Vite · Tailwind · Supabase | [🔴 Live](https://rovia-delice.vercel.app) |
-| **ESEC Placement Portal** | College placement system — 3-role hierarchy, RLS security, CSV bulk import & resume uploads | React · Flask · Supabase · PostgreSQL | [💻 Repo](https://github.com/Kishoreramu25/placeme) |
-| **n8n News Bot** | Fully automated "Daily Top 10 India News → Telegram" pipeline — zero manual effort | n8n · Telegram API · Render | [⚙️ Hosted](https://n8n-1rgn.onrender.com) |
+| **Rovia Delice** | Production-grade full stack web app — live & deployed | React · Vite · Tailwind · Supabase | [🔴 Live](https://rovia-delice.vercel.app) · [💻 Code](https://github.com/Kishoreramu25) |
+| **n8n News Bot** | Automated Daily Top 10 India News → Telegram, zero manual effort | n8n · Telegram API · Render | [⚙️ Live](https://n8n-1rgn.onrender.com) |
 
 </div>
 
@@ -111,11 +109,11 @@ kishore = {
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║   🔨  I don't just learn tech — I ship with it              ║
-║   🔐  Solved prod-level Supabase RLS security issues        ║
-║   ⚡  From idea → deployed product in days, not months      ║
-║   🎯  Full ownership: frontend + backend + DB + deploy      ║
-║   🤖  Building AI-powered automations that actually work    ║
-║   🤝  I perform under pressure and tight deadlines          ║
+║   🔐  Solved prod-level security issues (RLS, JWT, auth)    ║
+║   ⚡  Idea → deployed product in days, not months           ║
+║   🎯  Full ownership: frontend + backend + DB + infra       ║
+║   🤖  AI-powered automations that run without me            ║
+║   🤝  Built for deadlines — pressure makes me focus         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -128,21 +126,14 @@ kishore = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kishoreramu25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoreramu25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kishoreramu25&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&hide=contribs"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishoreramu25&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoreramu25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7"/>
 
 </div>
 
----
-
-## 📈 contribution graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishoreramu25&theme=tokyo-night&hide_border=true&area=true&color=a855f7&line=7c3aed&point=ffffff&area_color=1a0533" />
+<img src="https://streak-stats.demolab.com?user=Kishoreramu25&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=a855f7" />
 </div>
 
 ---
@@ -150,32 +141,63 @@ kishore = {
 ## 🏆 github trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kishoreramu25&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kishoreramu25&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
 
-## ⚡ vibe check
+## 📈 contribution graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishoreramu25&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=2d0a6e" />
+</div>
+
+---
+
+## ⚡ productivity & dev patterns
 
 ```
-🌅 Morning     ░░░░░░░░░░░░   nah bro still sleeping 😴
-🌞 Afternoon   ████████████   full beast mode 💪
-🌆 Evening     ██████████░░   debugging & occasionally crying
-🌙 Night       ███████░░░░░   last commit before bed.. maybe 🌙
+  🌅  Morning    ░░░░░░░░░░░░   still in bed ngl 😴
+  🌞  Afternoon  ████████████   locked in, full speed 💻
+  🌆  Evening    ██████████░░   debugging or designing
+  🌙  Night      ███████░░░░░   one last commit™ 🌙
 ```
 
-> still in college. already in production. 😤
+### 🔥 how i work
+
+| Habit | Reality |
+|---|---|
+| 🧠 Planning | async in my head at 2am |
+| 💻 Coding | full focus, no distractions |
+| 🐛 Debugging | i find it before it finds me (sometimes) |
+| 🚀 Deploying | always on Vercel or Render, same day |
+| 📝 Docs | written after it works 😅 |
+
+---
+
+## 📦 dev stats at a glance
+
+<div align="center">
+
+![Repos](https://img.shields.io/badge/Public%20Repos-20%2B-a855f7?style=for-the-badge&logo=github&logoColor=white)
+![Deployments](https://img.shields.io/badge/Live%20Deployments-10%2B-3ECF8E?style=for-the-badge&logo=vercel&logoColor=white)
+![Stack](https://img.shields.io/badge/Full%20Stack-React%20%2B%20Supabase%20%2B%20Node-646CFF?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Full%20Stack%20%2B%20AI%20Dev-ec4899?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work%20%F0%9F%9F%A2-22c55e?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🎯 2025 goals
 
 - [x] 🚀 Deploy a full-stack production app
-- [x] 🔐 Implement real-world auth + RLS security
-- [x] 🤖 Build AI-powered automation workflows
+- [x] 🔐 Implement enterprise-grade auth + RLS security
+- [x] 🤖 Build AI-powered automation pipelines
 - [x] 📦 Ship multi-role enterprise-level systems
 - [ ] 🌍 Land a killer internship / full-time role
 - [ ] 🧠 Build an end-to-end ML product in the wild
+- [ ] ⭐ Hit 100 GitHub stars across repos
 
 ---
 
@@ -185,12 +207,12 @@ kishore = {
 
 ### 💌 open to opportunities
 
-> I'm actively looking for **internships**, **freelance projects** & **collabs**. <br/>
-> If you build cool things — let's talk. 👇
+> actively looking for **internships**, **freelance gigs** & **collabs**
+> if you build cool things — let's talk 👇
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishoreramu25@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishoreramu25)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:kishoreramu25@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Kishoreramu25)
 
 <br/>
 
@@ -198,6 +220,6 @@ kishore = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a6e,50:1a0533,100:000000&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a6e,50:1a0533,100:000000&height=130&section=footer" />
 
 </div>
