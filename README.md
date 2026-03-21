@@ -136,13 +136,6 @@ kishore = {
 
 ---
 
-## 🏆 github trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kishoreramu25&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</div>
-
----
 
 ## 📈 contribution graph
 
