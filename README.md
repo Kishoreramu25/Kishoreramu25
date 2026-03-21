@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d0d,80:1a0533,100:2d0a6e&height=230&section=header&text=Kishore%20Ramu&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
 
 <!-- 👇 REPLACE THIS URL after uploading profile.jpg to your Kishoreramu25 repo -->
-<img src="https://raw.githubusercontent.com/Kishoreramu25/Kishoreramu25/main/profile.jpg" width="230" style="border-radius:50%;" alt="Kishore Ramu"/>
+<img src="https://raw.githubusercontent.com/Kishoreramu25/Kishoreramu25/main/profile.jpg" width="500" style="border-radius:50%;" alt="Kishore Ramu"/>
 
 <br/><br/>
 
