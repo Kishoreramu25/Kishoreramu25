@@ -3,12 +3,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d0d,80:1a0533,100:2d0a6e&height=230&section=header&text=Kishore%20Ramu&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
 
 <!-- 👇 REPLACE THIS URL after uploading profile.jpg to your Kishoreramu25 repo -->
-<img src="https://raw.githubusercontent.com/Kishoreramu25/Kishoreramu25/main/profile.jpg" width="500" style="border-radius:50%;" alt="Kishore Ramu"/>
+<img src="https://raw.githubusercontent.com/Kishoreramu25/Kishoreramu25/main/profile.jpg" width="800" style="border-radius:50%;" alt="Kishore Ramu"/>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=hey+there+%F0%9F%91%8B+i'm+kishore+ra;Full+Stack+Dev+%2B+AI+Engineer+%F0%9F%A4%96;I+build+things+that+actually+ship+%F0%9F%9A%80;React+%7C+Supabase+%7C+Python+%7C+Node.js;not+your+average+CS+student+%F0%9F%98%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=hey+there+%F0%9F%91%8B+i'm+kishore+Ram;Full+Stack+Dev+%2B+AI+Engineer+%F0%9F%A4%96;I+build+things+that+actually+ship+%F0%9F%9A%80;React+%7C+Supabase+%7C+Python+%7C+Node.js;not+your+average+CS+student+%F0%9F%98%88" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -32,7 +32,7 @@
 
 ```python
 kishore = {
-  "name"      : "Kishore Ramu",
+  "name"      : "Kishore Ram",
   "role"      : ["Full Stack Developer", "AI Developer"],
   "degree"    : "B.Tech – AI & Data Science",
   "location"  : "Chennai, Tamil Nadu 🇮🇳",
