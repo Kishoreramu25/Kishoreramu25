@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d0d,80:1a0533,100:2d0a6e&height=230&section=header&text=Kishore%20Ramu&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d0d,80:1a0533,100:2d0a6e&height=230&section=header&text=Kishore%20Ram&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
 
 <!-- 👇 REPLACE THIS URL after uploading profile.jpg to your Kishoreramu25 repo -->
 <img src="https://raw.githubusercontent.com/Kishoreramu25/Kishoreramu25/main/profile.jpg" width="800" style="border-radius:50%;" alt="Kishore Ramu"/>
@@ -165,6 +165,12 @@ kishore = {
 | 📝 Docs | written after it works 😅 |
 
 ---
+## 📊 daily activity
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/7c3aed/Kishoreramu25" alt="Kishore's GitHub Contribution Grid" width="100%" />
+</div>
+
 
 ## 📦 dev stats at a glance
 
@@ -202,7 +208,7 @@ kishore = {
 > if you build cool things — let's talk 👇
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:kishoreramu25@gmail.com)
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:kishoreramu28@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Kishoreramu25)
 
 <br/>
