@@ -35,7 +35,7 @@ kishore = {
   "name"      : "Kishore Ram",
   "role"      : ["Full Stack Developer", "AI Developer"],
   "degree"    : "B.Tech – AI & Data Science",
-  "location"  : "Chennai, Tamil Nadu 🇮🇳",
+  "location"  : "Ambur, Tamil Nadu 🇮🇳",
   "status"    : "shipping prod systems as a student 💀",
   "vibe"      : "build → ship → repeat",
   "fun_fact"  : "commits don't lie but my sleep does 🌙"
@@ -186,7 +186,7 @@ kishore = {
 
 ---
 
-## 🎯 2025 goals
+## 🎯 2026 goals
 
 - [x] 🚀 Deploy a full-stack production app
 - [x] 🔐 Implement enterprise-grade auth + RLS security
