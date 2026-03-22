@@ -35,7 +35,7 @@ kishore = {
   "name"      : "Kishore Ram",
   "role"      : ["Full Stack Developer", "AI Developer"],
   "degree"    : "B.Tech – AI & Data Science",
-  "location"  : "Ambur, Tamil Nadu 🇮🇳",
+  "location"  : "Ambur, Tamil Nadu , India",
   "status"    : "shipping prod systems as a student 💀",
   "vibe"      : "build → ship → repeat",
   "fun_fact"  : "commits don't lie but my sleep does 🌙"
