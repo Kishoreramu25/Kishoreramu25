@@ -15,8 +15,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40Kishoreramu25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishoreramu25)
 [![Live Project](https://img.shields.io/badge/Live%20Project-Rovia%20Delice-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://rovia-delice.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Email-Hit%20Me%20Up-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishoreramu25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kishore-ramu)
+[![Gmail](https://img.shields.io/badge/Email-Hit%20Me%20Up-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramkisho28@gmail.com)
 
 <br/>
 
