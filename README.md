@@ -108,7 +108,7 @@ kishore = {
 ║                                                              ║
 ║   🔨  I don't just learn tech — I ship with it              ║
 ║   🔐  Solved prod-level security issues (RLS, JWT, auth)    ║
-║   ⚡  Idea → deployed product in days, not months           ║
+║   ⚡  Idea → deployed product in days, not months and years ║
 ║   🎯  Full ownership: frontend + backend + DB + infra       ║
 ║   🤖  AI-powered automations that run without me            ║
 ║   🤝  Built for deadlines — pressure makes me focus         ║
