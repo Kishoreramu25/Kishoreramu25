@@ -191,7 +191,7 @@ kishore = {
 - [x] 🚀 Deploy a full-stack production app
 - [x] 🔐 Implement enterprise-grade auth + RLS security
 - [x] 🤖 Build AI-powered automation pipelines
-- [x] 📦 Ship multi-role enterprise-level systems
+- [ ] 📦 Ship multi-role enterprise-level systems
 - [ ] 🌍 Land a killer internship / full-time role
 - [ ] 🧠 Build an end-to-end ML product in the wild
 - [ ] ⭐ Hit 100 GitHub stars across repos
